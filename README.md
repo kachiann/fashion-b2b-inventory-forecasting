@@ -14,4 +14,6 @@ This is a small end-to-end project built to play with demand forecasting and inv
 Next, install dependencies with:
 `pip install -r requirements.txt`
 
+We will be using a virtual enviroment and docker. A virtual environment isolates dependencies while Docker ensures reproducibility on any machine.
+
 
